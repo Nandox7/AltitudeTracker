@@ -7,7 +7,7 @@ Hardware list:
  Arduino Nano - https://amzn.to/2DdeWqt
  BMP280 Barameter - https://amzn.to/2yGTUN2
  0.91 Inch OLED Display 128x32 - https://amzn.to/2SxxyWQ
-   
+ 
  I2C pins are the Arduino Standard:
  SDA = A4
  SCL = A5
